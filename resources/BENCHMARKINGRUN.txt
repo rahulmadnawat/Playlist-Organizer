@@ -1,0 +1,2134 @@
+-----------------------------------------------------
+-----------------------------------------------------
+Test file: inputFile08.txt
+
+NOTES: Testing attempt to find objects containing
+       IDs using both a quadratic probing hash table
+       and sequential find.
+-----------------------------------------------------
+
+Total number of songs read 59600
+
+N: 1000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 231
+Song id 231 found in tableOfSongIDs.
+
+Finding song id: 17
+Song id 17 found in tableOfSongIDs.
+
+Finding song id: 184
+Song id 184 found in tableOfSongIDs.
+
+Finding song id: 206
+Song id 206 found in tableOfSongIDs.
+
+Finding song id: 680
+Song id 680 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 5 ms : 879032 ns
+
+Sequential find access time:
+
+Three Days From Now, 0:3:31, The Ladybug Transistor, classic pop and rock, 231
+Workshop Of The Telescopes, 0:4:2, Blue Oyster Cult, classic pop and rock, 17
+Surround (Live-Milwaukee), 0:4:4, American Hi-Fi, classic pop and rock, 184
+In A Certain Place, 0:3:13, Lady Bug Transistor, classic pop and rock, 206
+Yes We Can Can, 0:4:13, The Pointer Sisters, classic pop and rock, 680
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 267706 ns
+
+
+N: 2000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 598
+Song id 598 found in tableOfSongIDs.
+
+Finding song id: 653
+Song id 653 found in tableOfSongIDs.
+
+Finding song id: 61
+Song id 61 found in tableOfSongIDs.
+
+Finding song id: 190
+Song id 190 found in tableOfSongIDs.
+
+Finding song id: 893
+Song id 893 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 573085 ns
+
+Sequential find access time:
+
+Love Game, 0:3:49, B.A.D., classic pop and rock, 598
+Dong Tian De Re Dai Yu, 0:4:16, B.A.D., classic pop and rock, 653
+Sally, 0:2:40, Blue Oyster Cult, classic pop and rock, 61
+The Rescue (Album Version), 0:3:17, American Hi-Fi, classic pop and rock, 190
+Boogie Nights, 0:3:36, Heatwave, classic pop and rock, 893
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 688233 ns
+
+
+N: 3000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 352
+Song id 352 found in tableOfSongIDs.
+
+Finding song id: 1943
+Song id 1943 found in tableOfSongIDs.
+
+Finding song id: 1628
+Song id 1628 found in tableOfSongIDs.
+
+Finding song id: 363
+Song id 363 found in tableOfSongIDs.
+
+Finding song id: 1208
+Song id 1208 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 84408 ns
+
+Sequential find access time:
+
+Spirit Ditties Of No Tone, 0:4:8, Deerhoof, classic pop and rock, 352
+The Bues Got Me Down, 0:2:38, Lowell Fulson, classic pop and rock, 1943
+Cheesies And Gum, 0:3:10, Martha And The Muffins, classic pop and rock, 1628
+The Will To Love, 0:2:21, Lee Greenwood, classic pop and rock, 363
+The Night Before Christmas, 0:3:43, Carly Simon, classic pop and rock, 1208
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 700515 ns
+
+
+N: 4000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 2854
+Song id 2854 found in tableOfSongIDs.
+
+Finding song id: 349
+Song id 349 found in tableOfSongIDs.
+
+Finding song id: 1465
+Song id 1465 found in tableOfSongIDs.
+
+Finding song id: 1085
+Song id 1085 found in tableOfSongIDs.
+
+Finding song id: 2365
+Song id 2365 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 669315 ns
+
+Sequential find access time:
+
+Down the Argentine (ORIGINAL), 0:3:15, Blurt, classic pop and rock, 2854
+After Me The Deluge, 0:4:0, Deerhoof, classic pop and rock, 349
+Alive Again, 0:6:4, Skeletal Family, classic pop and rock, 1465
+Deja Vu, 0:4:13, Crosby_ Stills_ Nash & Young, classic pop and rock, 1085
+I'd Rather Be Thin Than Famous (1999 Digital Remaster), 0:0:35, Jack Kerouac, classic pop and rock, 2365
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 898562 ns
+
+
+N: 5000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 881
+Song id 881 found in tableOfSongIDs.
+
+Finding song id: 2809
+Song id 2809 found in tableOfSongIDs.
+
+Finding song id: 2203
+Song id 2203 found in tableOfSongIDs.
+
+Finding song id: 3357
+Song id 3357 found in tableOfSongIDs.
+
+Finding song id: 3412
+Song id 3412 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 3 ms : 441271 ns
+
+Sequential find access time:
+
+Ding Dong Merrily On High, 0:4:35, Chris Squire, classic pop and rock, 881
+Hollywood Heckle And Jive (LP Version), 0:4:9, England Dan & John Ford Coley, classic pop and rock, 2809
+Dont Let Me Be Misunderstood (Granite & Sugarman Alternate Extended Instrumental), 0:8:57, Santa Esmeralda, classic pop and rock, 2203
+Into The Chaos, 0:3:27, Howling Bells, classic pop and rock, 3357
+Insect Prospectus, 0:5:7, Belbury Poly, classic pop and rock, 3412
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 651215 ns
+
+
+N: 6000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 1964
+Song id 1964 found in tableOfSongIDs.
+
+Finding song id: 3975
+Song id 3975 found in tableOfSongIDs.
+
+Finding song id: 2480
+Song id 2480 found in tableOfSongIDs.
+
+Finding song id: 4501
+Song id 4501 found in tableOfSongIDs.
+
+Finding song id: 520
+Song id 520 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 932175 ns
+
+Sequential find access time:
+
+Cold Hearted Moma, 0:2:55, Lowell Fulson, classic pop and rock, 1964
+It's That Time Again, 0:3:7, Matt Monro, classic pop and rock, 3975
+Olympics on Pot, 0:4:50, The Ruby Suns, classic pop and rock, 2480
+One Night Stand, 0:1:41, The Pipettes, classic pop and rock, 4501
+Dark Nature Places, 0:3:59, Land Of Talk, classic pop and rock, 520
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 621871 ns
+
+
+N: 7000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 5412
+Song id 5412 found in tableOfSongIDs.
+
+Finding song id: 5631
+Song id 5631 found in tableOfSongIDs.
+
+Finding song id: 3392
+Song id 3392 found in tableOfSongIDs.
+
+Finding song id: 1759
+Song id 1759 found in tableOfSongIDs.
+
+Finding song id: 2099
+Song id 2099 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 5 ms : 195451 ns
+
+Sequential find access time:
+
+Luck Dragon, 0:4:45, Crosby & Nash, classic pop and rock, 5412
+Hoochie Coochie Man, 0:5:16, Steppenwolf, classic pop and rock, 5631
+The Moonlawn, 0:4:18, Belbury Poly, classic pop and rock, 3392
+Oh_ Singer - Original, 0:2:48, Jeannie C. Riley, classic pop and rock, 1759
+You're All Talk, 0:3:56, Cheap Trick, classic pop and rock, 2099
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 677701 ns
+
+
+N: 8000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 3095
+Song id 3095 found in tableOfSongIDs.
+
+Finding song id: 5408
+Song id 5408 found in tableOfSongIDs.
+
+Finding song id: 915
+Song id 915 found in tableOfSongIDs.
+
+Finding song id: 6525
+Song id 6525 found in tableOfSongIDs.
+
+Finding song id: 6765
+Song id 6765 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 314071 ns
+
+Sequential find access time:
+
+People Lie, 0:2:12, J.J. Cale, classic pop and rock, 3095
+How Does It Shine, 0:5:21, Crosby & Nash, classic pop and rock, 5408
+The Groove Line, 0:4:24, Heatwave, classic pop and rock, 915
+We Shall All Be Free, 0:6:11, The Weather Girls, classic pop and rock, 6525
+The Grey Suit, 0:8:5, John Foxx, classic pop and rock, 6765
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 586476 ns
+
+
+N: 9000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 1733
+Song id 1733 found in tableOfSongIDs.
+
+Finding song id: 7173
+Song id 7173 found in tableOfSongIDs.
+
+Finding song id: 3645
+Song id 3645 found in tableOfSongIDs.
+
+Finding song id: 4059
+Song id 4059 found in tableOfSongIDs.
+
+Finding song id: 5238
+Song id 5238 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 414096 ns
+
+Sequential find access time:
+
+You're A Star, 0:4:36, Lighthouse Family, classic pop and rock, 1733
+Big Thing, 0:1:51, Herman Dune, classic pop and rock, 7173
+Well I'm Your Man, 0:2:17, Johnny Tillotson, classic pop and rock, 3645
+The Principles of Love, 0:7:37, Incognito, classic pop and rock, 4059
+Jake, 0:3:2, Lisa Loeb, classic pop and rock, 5238
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 986401 ns
+
+
+N: 10000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 6021
+Song id 6021 found in tableOfSongIDs.
+
+Finding song id: 2511
+Song id 2511 found in tableOfSongIDs.
+
+Finding song id: 8498
+Song id 8498 found in tableOfSongIDs.
+
+Finding song id: 2203
+Song id 2203 found in tableOfSongIDs.
+
+Finding song id: 2643
+Song id 2643 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 405828 ns
+
+Sequential find access time:
+
+Love On Top Of Love (Digitally Remastered 2004), 0:6:14, Grace Jones, classic pop and rock, 6021
+I Feel Sure (BBC In Concert), 0:3:3, The Railway Children, classic pop and rock, 2511
+Yonki Time (LP Version), 0:3:55, Tom Verlaine, classic pop and rock, 8498
+Dont Let Me Be Misunderstood (Granite & Sugarman Alternate Extended Instrumental), 0:8:57, Santa Esmeralda, classic pop and rock, 2203
+African Breakfast (In Bed), 0:3:22, Harry J Allstars, classic pop and rock, 2643
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 868764 ns
+
+
+N: 11000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 6832
+Song id 6832 found in tableOfSongIDs.
+
+Finding song id: 7047
+Song id 7047 found in tableOfSongIDs.
+
+Finding song id: 4929
+Song id 4929 found in tableOfSongIDs.
+
+Finding song id: 5244
+Song id 5244 found in tableOfSongIDs.
+
+Finding song id: 8816
+Song id 8816 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 499817 ns
+
+Sequential find access time:
+
+Anywhere You're Gonna Be (Leba's Song), 0:3:36, Neil Sedaka, classic pop and rock, 6832
+Leave It In The Hands Of Love, 0:3:6, Fontella Bass, classic pop and rock, 7047
+Talk To Me, 0:4:7, Third World, classic pop and rock, 4929
+Found a Peanut, 0:2:12, Lisa Loeb, classic pop and rock, 5244
+Nazanin, 0:2:6, Good Shoes, classic pop and rock, 8816
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 674692 ns
+
+
+N: 12000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 883
+Song id 883 found in tableOfSongIDs.
+
+Finding song id: 1674
+Song id 1674 found in tableOfSongIDs.
+
+Finding song id: 4744
+Song id 4744 found in tableOfSongIDs.
+
+Finding song id: 10667
+Song id 10667 found in tableOfSongIDs.
+
+Finding song id: 7570
+Song id 7570 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 404485 ns
+
+Sequential find access time:
+
+Sussex Carol, 0:3:52, Chris Squire, classic pop and rock, 883
+Save The Country, 0:3:55, Julie Driscoll_ Brian Auger & The Trinity, classic pop and rock, 1674
+Melody Hill, 0:2:27, The Archies, classic pop and rock, 4744
+Independence Day, 0:3:58, Lutricia Mcneal, classic pop and rock, 10667
+Love At First Sight, 0:4:34, Van McCoy, classic pop and rock, 7570
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 755778 ns
+
+
+N: 13000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 11521
+Song id 11521 found in tableOfSongIDs.
+
+Finding song id: 9408
+Song id 9408 found in tableOfSongIDs.
+
+Finding song id: 8383
+Song id 8383 found in tableOfSongIDs.
+
+Finding song id: 1348
+Song id 1348 found in tableOfSongIDs.
+
+Finding song id: 920
+Song id 920 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 423200 ns
+
+Sequential find access time:
+
+I Hear A Symphony, 0:4:58, Lamont Dozier, classic pop and rock, 11521
+When A Man Loves A Woman (LP Version), 0:2:53, Percy Sledge, classic pop and rock, 9408
+No Bad Thing, 0:4:9, Cutting Crew, classic pop and rock, 8383
+You Little Trustmaker, 0:2:38, The Tymes, classic pop and rock, 1348
+Always And Forever, 0:3:37, Heatwave, classic pop and rock, 920
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 712840 ns
+
+
+N: 14000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 9846
+Song id 9846 found in tableOfSongIDs.
+
+Finding song id: 6722
+Song id 6722 found in tableOfSongIDs.
+
+Finding song id: 1066
+Song id 1066 found in tableOfSongIDs.
+
+Finding song id: 10686
+Song id 10686 found in tableOfSongIDs.
+
+Finding song id: 3244
+Song id 3244 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 560658 ns
+
+Sequential find access time:
+
+Thank You #19 (LP Version), 0:5:46, Huey Lewis And The News, classic pop and rock, 9846
+Shifting Perspective, 0:2:34, John Foxx, classic pop and rock, 6722
+Carry On, 0:0:1, Crosby_ Stills_ Nash and Young, classic pop and rock, 1066
+Grey Turns White, 0:3:21, Ultra Vivid Scene, classic pop and rock, 10686
+Real Love, 0:9:5, Jean Knight, classic pop and rock, 3244
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 813924 ns
+
+
+N: 15000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 10620
+Song id 10620 found in tableOfSongIDs.
+
+Finding song id: 273
+Song id 273 found in tableOfSongIDs.
+
+Finding song id: 2367
+Song id 2367 found in tableOfSongIDs.
+
+Finding song id: 11774
+Song id 11774 found in tableOfSongIDs.
+
+Finding song id: 3957
+Song id 3957 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 495941 ns
+
+Sequential find access time:
+
+We Are Normal, 0:4:49, The Bonzo Dog Doo Dah Band, classic pop and rock, 10620
+Rat Attack, 0:1:46, Deerhoof, classic pop and rock, 273
+Dave Brubeck (1999 Digital Remaster), 0:0:31, Jack Kerouac, classic pop and rock, 2367
+Who Invented The Wheel, 0:3:25, Trisha Yearwood, classic pop and rock, 11774
+My Best Girl (2010 Digital Remaster), 0:2:3, Matt Monro, classic pop and rock, 3957
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 852835 ns
+
+
+N: 16000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 5194
+Song id 5194 found in tableOfSongIDs.
+
+Finding song id: 3937
+Song id 3937 found in tableOfSongIDs.
+
+Finding song id: 7292
+Song id 7292 found in tableOfSongIDs.
+
+Finding song id: 4635
+Song id 4635 found in tableOfSongIDs.
+
+Finding song id: 11002
+Song id 11002 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 31695 ns
+
+Sequential find access time:
+
+Give A Little Peace, 0:4:20, The Pasadenas, classic pop and rock, 5194
+My Favourite Song, 0:1:49, Matt Monro, classic pop and rock, 3937
+You're My Everything, 0:3:4, Gladys Knight & The Pips, classic pop and rock, 7292
+Eldorado (12" Remix), 0:7:26, Working Week, classic pop and rock, 4635
+The Night Show, 0:4:37, Andrew Gold, classic pop and rock, 11002
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 859974 ns
+
+
+N: 17000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 1105
+Song id 1105 found in tableOfSongIDs.
+
+Finding song id: 14048
+Song id 14048 found in tableOfSongIDs.
+
+Finding song id: 6537
+Song id 6537 found in tableOfSongIDs.
+
+Finding song id: 2332
+Song id 2332 found in tableOfSongIDs.
+
+Finding song id: 5025
+Song id 5025 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 416461 ns
+
+Sequential find access time:
+
+Everybody Knows My Name (2007 Remastered LP Version), 0:3:22, Frankie Valli, classic pop and rock, 1105
+It should have been me, 0:4:28, Andreas Johnson, classic pop and rock, 14048
+It's Raining Men, 0:3:25, The Weather Girls, classic pop and rock, 6537
+Mind Of A Toy, 0:5:16, Visage, classic pop and rock, 2332
+How The Heart Behaves, 0:3:55, Was (Not Was), classic pop and rock, 5025
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 7624 ns
+
+
+N: 18000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 12886
+Song id 12886 found in tableOfSongIDs.
+
+Finding song id: 14815
+Song id 14815 found in tableOfSongIDs.
+
+Finding song id: 7365
+Song id 7365 found in tableOfSongIDs.
+
+Finding song id: 4182
+Song id 4182 found in tableOfSongIDs.
+
+Finding song id: 14136
+Song id 14136 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 935223 ns
+
+Sequential find access time:
+
+She Talks To Me With Her Body, 0:6:8, The Bar-Kays, classic pop and rock, 12886
+Saturday Night_ Sunday Morning, 0:3:56, Thelma Houston, classic pop and rock, 14815
+Blue_ All The Way To Canada, 0:3:52, Moe Tucker, classic pop and rock, 7365
+Ride Blue Divide, 0:5:0, Sniff 'n' The Tears, classic pop and rock, 4182
+Pavlov's Bell, 0:4:35, Aimee Mann, classic pop and rock, 14136
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 581500 ns
+
+
+N: 19000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 130
+Song id 130 found in tableOfSongIDs.
+
+Finding song id: 10512
+Song id 10512 found in tableOfSongIDs.
+
+Finding song id: 8969
+Song id 8969 found in tableOfSongIDs.
+
+Finding song id: 15185
+Song id 15185 found in tableOfSongIDs.
+
+Finding song id: 6905
+Song id 6905 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 232452 ns
+
+Sequential find access time:
+
+Funky Cold Medina (Club Crasher Remix), 0:4:35, Tone-Loc, classic pop and rock, 130
+Night Fever, 0:5:25, THE FATBACK BAND, classic pop and rock, 10512
+The Trials Of Harrison Hayes, 0:3:19, Willard Grant Conspiracy, classic pop and rock, 8969
+Love Is A Hurricane, 0:6:41, Boyzone, classic pop and rock, 15185
+My Love, 0:4:9, Paul McCartney / Wings, classic pop and rock, 6905
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 588059 ns
+
+
+N: 20000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 12799
+Song id 12799 found in tableOfSongIDs.
+
+Finding song id: 10378
+Song id 10378 found in tableOfSongIDs.
+
+Finding song id: 14289
+Song id 14289 found in tableOfSongIDs.
+
+Finding song id: 507
+Song id 507 found in tableOfSongIDs.
+
+Finding song id: 15571
+Song id 15571 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 211282 ns
+
+Sequential find access time:
+
+Wang Dang Doodle, 0:4:2, Koko Taylor_ Little Walter_ Hound Dog Taylor_ Dillard Crume_ Odie Payne, classic pop and rock, 12799
+Calendar girl (young galaxy), 0:3:34, Stars, classic pop and rock, 10378
+Parker's Band, 0:2:46, Steely Dan, classic pop and rock, 14289
+Let Her Walk Away, 0:3:25, The Pioneers, classic pop and rock, 507
+Sweet Blindness, 0:2:39, Laura Nyro, classic pop and rock, 15571
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 645667 ns
+
+
+N: 21000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 19892
+Song id 19892 found in tableOfSongIDs.
+
+Finding song id: 8567
+Song id 8567 found in tableOfSongIDs.
+
+Finding song id: 17888
+Song id 17888 found in tableOfSongIDs.
+
+Finding song id: 1883
+Song id 1883 found in tableOfSongIDs.
+
+Finding song id: 12322
+Song id 12322 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 205641 ns
+
+Sequential find access time:
+
+Happy Feeling, 0:3:39, Sister Sledge, classic pop and rock, 19892
+Layin' It On The Line, 0:4:11, Jefferson Starship, classic pop and rock, 8567
+You Don't Know Me, 0:3:0, Jennifer Warnes, classic pop and rock, 17888
+LaLa Land, 0:3:42, Wallis Bird, classic pop and rock, 1883
+Lost Verses, 0:7:57, Mark Kozelek, classic pop and rock, 12322
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 622718 ns
+
+
+N: 22000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 4614
+Song id 4614 found in tableOfSongIDs.
+
+Finding song id: 314
+Song id 314 found in tableOfSongIDs.
+
+Finding song id: 5856
+Song id 5856 found in tableOfSongIDs.
+
+Finding song id: 7564
+Song id 7564 found in tableOfSongIDs.
+
+Finding song id: 18710
+Song id 18710 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 218287 ns
+
+Sequential find access time:
+
+Haven't We Lost Enough?  (LP Version), 0:3:7, Crosby_ Stills & Nash, classic pop and rock, 4614
+Cooper, 0:2:2, Deerhoof, classic pop and rock, 314
+Roses, 0:3:59, Nik Kershaw, classic pop and rock, 5856
+Change With the Times, 0:3:20, Van McCoy, classic pop and rock, 7564
+Big Fun (Original 12'' Mix), 0:7:42, Inner City, classic pop and rock, 18710
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 636097 ns
+
+
+N: 23000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 7367
+Song id 7367 found in tableOfSongIDs.
+
+Finding song id: 10353
+Song id 10353 found in tableOfSongIDs.
+
+Finding song id: 14333
+Song id 14333 found in tableOfSongIDs.
+
+Finding song id: 2787
+Song id 2787 found in tableOfSongIDs.
+
+Finding song id: 17822
+Song id 17822 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 346763 ns
+
+Sequential find access time:
+
+I'm Sticking With You, 0:2:36, Moe Tucker, classic pop and rock, 7367
+Give It A Break, 0:3:3, Screamin' Jay Hawkins, classic pop and rock, 10353
+The Surf, 0:4:23, Tuggawar, classic pop and rock, 14333
+Snowflake, 0:2:10, Jim Reeves, classic pop and rock, 2787
+If I Had A Hammer, 0:4:3, Martha & The Vandellas, classic pop and rock, 17822
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 731174 ns
+
+
+N: 24000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 17090
+Song id 17090 found in tableOfSongIDs.
+
+Finding song id: 8611
+Song id 8611 found in tableOfSongIDs.
+
+Finding song id: 3627
+Song id 3627 found in tableOfSongIDs.
+
+Finding song id: 11724
+Song id 11724 found in tableOfSongIDs.
+
+Finding song id: 5807
+Song id 5807 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 243512 ns
+
+Sequential find access time:
+
+The Last Supper At The Masquerade, 0:4:8, Jona Lewie, classic pop and rock, 17090
+At The Rainbow's End, 0:3:5, The Osmonds, classic pop and rock, 8611
+I Like It Like That, 0:2:2, The Nashville Teens, classic pop and rock, 3627
+Ansiedad, 0:4:3, Albert Hammond, classic pop and rock, 11724
+More, 0:3:59, Alison Moyet, classic pop and rock, 5807
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 153100 ns
+
+
+N: 25000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 18620
+Song id 18620 found in tableOfSongIDs.
+
+Finding song id: 19896
+Song id 19896 found in tableOfSongIDs.
+
+Finding song id: 1810
+Song id 1810 found in tableOfSongIDs.
+
+Finding song id: 1687
+Song id 1687 found in tableOfSongIDs.
+
+Finding song id: 7962
+Song id 7962 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 349073 ns
+
+Sequential find access time:
+
+Man's Temptation - Original, 0:2:51, Gene Chandler, classic pop and rock, 18620
+Shake Me Down, 0:4:22, Sister Sledge, classic pop and rock, 19896
+You Keep Me Hanging On, 0:3:41, The Box Tops, classic pop and rock, 1810
+High, 0:4:34, Lighthouse Family, classic pop and rock, 1687
+Find Another Fool, 0:2:37, The Marcels, classic pop and rock, 7962
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 381198 ns
+
+
+N: 26000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 9181
+Song id 9181 found in tableOfSongIDs.
+
+Finding song id: 13901
+Song id 13901 found in tableOfSongIDs.
+
+Finding song id: 7700
+Song id 7700 found in tableOfSongIDs.
+
+Finding song id: 11699
+Song id 11699 found in tableOfSongIDs.
+
+Finding song id: 19901
+Song id 19901 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 496587 ns
+
+Sequential find access time:
+
+The Defector, 0:4:59, Luke Doucet, classic pop and rock, 9181
+Smelly Nelly, 0:3:42, Krokus, classic pop and rock, 13901
+Rainbows In The Dark, 0:4:20, Tilly & The Wall, classic pop and rock, 7700
+All Together Now, 0:7:23, The Farm, classic pop and rock, 11699
+Dream On, 0:4:3, Sister Sledge, classic pop and rock, 19901
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 2 ms : 261518 ns
+
+
+N: 27000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 2513
+Song id 2513 found in tableOfSongIDs.
+
+Finding song id: 9542
+Song id 9542 found in tableOfSongIDs.
+
+Finding song id: 5512
+Song id 5512 found in tableOfSongIDs.
+
+Finding song id: 5000
+Song id 5000 found in tableOfSongIDs.
+
+Finding song id: 22018
+Song id 22018 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 6 ms : 91425 ns
+
+Sequential find access time:
+
+In The Meantime (Janice Long Session - 6th May 87), 0:2:22, The Railway Children, classic pop and rock, 2513
+Intro, 0:1:31, Rod Lee, classic pop and rock, 9542
+Beechwood Park, 0:3:5, The Zombies, classic pop and rock, 5512
+Holland_ 1945, 0:3:13, Neutral Milk Hotel, classic pop and rock, 5000
+A Little Bird Told Me, 0:5:46, Julie Collings, classic pop and rock, 22018
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 5 ms : 118617 ns
+
+
+N: 28000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 8911
+Song id 8911 found in tableOfSongIDs.
+
+Finding song id: 13528
+Song id 13528 found in tableOfSongIDs.
+
+Finding song id: 4847
+Song id 4847 found in tableOfSongIDs.
+
+Finding song id: 26801
+Song id 26801 found in tableOfSongIDs.
+
+Finding song id: 23409
+Song id 23409 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 223499 ns
+
+Sequential find access time:
+
+Born To Be Bad, 0:2:49, Jimmy Ruffin, classic pop and rock, 8911
+Rock Your Baby (Single Mix), 0:3:52, KC & The Sunshine Band, classic pop and rock, 13528
+Perfidia (LP Version), 0:2:6, Ben E. King, classic pop and rock, 4847
+Stormy Stare, 0:2:35, Thee S.T.P., punk, 26801
+Habit (Album), 0:3:55, Cathy Davey, classic pop and rock, 23409
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 349920 ns
+
+
+N: 29000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 5040
+Song id 5040 found in tableOfSongIDs.
+
+Finding song id: 19270
+Song id 19270 found in tableOfSongIDs.
+
+Finding song id: 13744
+Song id 13744 found in tableOfSongIDs.
+
+Finding song id: 26100
+Song id 26100 found in tableOfSongIDs.
+
+Finding song id: 26041
+Song id 26041 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 183165 ns
+
+Sequential find access time:
+
+What Up Dog?, 0:1:48, Was (Not Was), classic pop and rock, 5040
+Music Is The Wine, 0:7:51, Seventeen Evergreen, classic pop and rock, 19270
+We Didn't Know What Was Going On, 0:4:13, THE TOM ROBINSON BAND, classic pop and rock, 13744
+Indios De Barcelona, 0:2:22, Mano Negra, punk, 26100
+Anchorless, 0:1:40, Propagandhi, punk, 26041
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 340174 ns
+
+
+N: 30000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 5289
+Song id 5289 found in tableOfSongIDs.
+
+Finding song id: 14850
+Song id 14850 found in tableOfSongIDs.
+
+Finding song id: 628
+Song id 628 found in tableOfSongIDs.
+
+Finding song id: 11502
+Song id 11502 found in tableOfSongIDs.
+
+Finding song id: 17303
+Song id 17303 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 335648 ns
+
+Sequential find access time:
+
+Merch Sydd Yn Fy Mhoced, 0:1:48, Radio Luxembourg, classic pop and rock, 5289
+Land Of Shame (BBC In Concert - 29th Apr 1987), 0:3:52, Spear Of Destiny, classic pop and rock, 14850
+The Globe, 0:3:47, Big Audio Dynamite, classic pop and rock, 628
+Attitude Up (LP Version), 0:4:54, Lamont Dozier, classic pop and rock, 11502
+Medley: What Time Is It?/Off My Line, 0:12:23, Spin Doctors, classic pop and rock, 17303
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 980595 ns
+
+
+N: 31000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 19754
+Song id 19754 found in tableOfSongIDs.
+
+Finding song id: 15518
+Song id 15518 found in tableOfSongIDs.
+
+Finding song id: 29888
+Song id 29888 found in tableOfSongIDs.
+
+Finding song id: 15435
+Song id 15435 found in tableOfSongIDs.
+
+Finding song id: 26750
+Song id 26750 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 217090 ns
+
+Sequential find access time:
+
+(It's Only Your) Imagination, 0:1:53, Bobbie Gentry, classic pop and rock, 19754
+Lu, 0:2:40, Laura Nyro, classic pop and rock, 15518
+Jumpin' Judy, 0:2:27, Odetta, folk, 29888
+Silver Sun, 0:5:33, Kristin Hersh, classic pop and rock, 15435
+Drinkage, 0:2:41, Useless I.D., punk, 26750
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 5 ms : 750244 ns
+
+
+N: 32000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 10603
+Song id 10603 found in tableOfSongIDs.
+
+Finding song id: 12232
+Song id 12232 found in tableOfSongIDs.
+
+Finding song id: 24602
+Song id 24602 found in tableOfSongIDs.
+
+Finding song id: 28575
+Song id 28575 found in tableOfSongIDs.
+
+Finding song id: 8197
+Song id 8197 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 526276 ns
+
+Sequential find access time:
+
+Fever Shriek, 0:6:10, Run Level Zero, classic pop and rock, 10603
+Stranger to Love, 0:3:40, Chaka Khan_ Rufus, classic pop and rock, 12232
+Il funerale della terra, 0:2:12, Fall Out, punk, 24602
+Barcelona Nights, 0:4:7, Ottmar Liebert, folk, 28575
+Werewolves Of London (2007 Remastered Live LP Version), 0:5:0, Warren Zevon, classic pop and rock, 8197
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 2 ms : 922130 ns
+
+
+N: 33000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 7184
+Song id 7184 found in tableOfSongIDs.
+
+Finding song id: 567
+Song id 567 found in tableOfSongIDs.
+
+Finding song id: 5592
+Song id 5592 found in tableOfSongIDs.
+
+Finding song id: 10471
+Song id 10471 found in tableOfSongIDs.
+
+Finding song id: 17726
+Song id 17726 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 323667 ns
+
+Sequential find access time:
+
+Red Blue Eyes, 0:2:43, Herman Dune, classic pop and rock, 7184
+The Ties That Bind, 0:2:54, Brook Benton, classic pop and rock, 567
+Tenderness, 0:4:56, Steppenwolf, classic pop and rock, 5592
+Backstrokin', 0:3:45, THE FATBACK BAND, classic pop and rock, 10471
+Killermont Street, 0:3:18, Aztec Camera, classic pop and rock, 17726
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 775151 ns
+
+
+N: 34000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 6649
+Song id 6649 found in tableOfSongIDs.
+
+Finding song id: 20617
+Song id 20617 found in tableOfSongIDs.
+
+Finding song id: 16418
+Song id 16418 found in tableOfSongIDs.
+
+Finding song id: 28766
+Song id 28766 found in tableOfSongIDs.
+
+Finding song id: 26566
+Song id 26566 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 582163 ns
+
+Sequential find access time:
+
+The Day The Robin Sang To Me, 0:3:42, The Manhattans, classic pop and rock, 6649
+I'm So Glad, 0:4:42, The Blow Monkeys, classic pop and rock, 20617
+Under My Skin, 0:3:32, The Rutles, classic pop and rock, 16418
+Suicide Song, 0:2:29, Loudon Wainwright III, folk, 28766
+Back In The USSR (2001 Digital Remaster), 0:1:42, Sensuuri, punk, 26566
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 81165 ns
+
+
+N: 35000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 28495
+Song id 28495 found in tableOfSongIDs.
+
+Finding song id: 1377
+Song id 1377 found in tableOfSongIDs.
+
+Finding song id: 20171
+Song id 20171 found in tableOfSongIDs.
+
+Finding song id: 31761
+Song id 31761 found in tableOfSongIDs.
+
+Finding song id: 20201
+Song id 20201 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 377119 ns
+
+Sequential find access time:
+
+Jolly Hockeysticks, 0:3:7, The Greencards, folk, 28495
+Mr. Farmer, 0:2:55, The Seeds, classic pop and rock, 1377
+Your Love, 0:4:7, Mikey Dread, classic pop and rock, 20171
+Queen of Spain, 0:5:25, James Yorkston, folk, 31761
+Still my number one, 0:4:6, Mikey Dread, classic pop and rock, 20201
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 456667 ns
+
+
+N: 36000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 23966
+Song id 23966 found in tableOfSongIDs.
+
+Finding song id: 20802
+Song id 20802 found in tableOfSongIDs.
+
+Finding song id: 23230
+Song id 23230 found in tableOfSongIDs.
+
+Finding song id: 19434
+Song id 19434 found in tableOfSongIDs.
+
+Finding song id: 27293
+Song id 27293 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 617652 ns
+
+Sequential find access time:
+
+O Equivocado, 0:2:44, Ratos de Porao, punk, 23966
+Do You Wanna Dance, 0:3:3, The Mamas & The Papas, classic pop and rock, 20802
+Desperation, 0:6:28, Humble Pie, classic pop and rock, 23230
+Amazing Grace, 0:4:28, Glen Campbell, classic pop and rock, 19434
+Digga Digga Do, 0:4:11, Asylum Street Spankers, folk, 27293
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 202682 ns
+
+
+N: 37000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 19476
+Song id 19476 found in tableOfSongIDs.
+
+Finding song id: 30406
+Song id 30406 found in tableOfSongIDs.
+
+Finding song id: 18222
+Song id 18222 found in tableOfSongIDs.
+
+Finding song id: 15398
+Song id 15398 found in tableOfSongIDs.
+
+Finding song id: 27773
+Song id 27773 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 408972 ns
+
+Sequential find access time:
+
+Suwannee Jo (Album Version), 0:5:25, PAULA COLE, classic pop and rock, 19476
+Oh Susanna, 0:3:47, Peter Rowan, folk, 30406
+The Final (Album Version), 0:6:53, mechanical bride, classic pop and rock, 18222
+The Thin Man, 0:4:18, Kristin Hersh, classic pop and rock, 15398
+Emigodini, 0:4:9, Vusi Mahlasela, folk, 27773
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 392115 ns
+
+
+N: 38000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 12143
+Song id 12143 found in tableOfSongIDs.
+
+Finding song id: 5282
+Song id 5282 found in tableOfSongIDs.
+
+Finding song id: 35160
+Song id 35160 found in tableOfSongIDs.
+
+Finding song id: 22029
+Song id 22029 found in tableOfSongIDs.
+
+Finding song id: 1011
+Song id 1011 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 504586 ns
+
+Sequential find access time:
+
+Ridin' Thumb, 0:3:54, Seals and Crofts, classic pop and rock, 12143
+Dusk Cloud, 0:1:43, Voice Of The Seven Woods, classic pop and rock, 5282
+Vacate, 0:4:47, keller williams, folk, 35160
+The Last Post, 0:4:25, Julie Collings, classic pop and rock, 22029
+Marcus Say Jah No Dead, 0:3:46, Burning Spear, classic pop and rock, 1011
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 2 ms : 375647 ns
+
+
+N: 39000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 613
+Song id 613 found in tableOfSongIDs.
+
+Finding song id: 30729
+Song id 30729 found in tableOfSongIDs.
+
+Finding song id: 37979
+Song id 37979 found in tableOfSongIDs.
+
+Finding song id: 30392
+Song id 30392 found in tableOfSongIDs.
+
+Finding song id: 27821
+Song id 27821 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 986704 ns
+
+Sequential find access time:
+
+Ice Cool Killer, 0:5:35, Big Audio Dynamite, classic pop and rock, 613
+Things That Go Bump In The Day, 0:4:1, RODNEY CROWELL, folk, 30729
+Broken Glass, 0:3:19, David Francey, folk, 37979
+Moonshiner, 0:3:4, Peter Rowan, folk, 30392
+Higher Germanie, 0:2:45, Shirley Collins, folk, 27821
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 714288 ns
+
+
+N: 40000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 16578
+Song id 16578 found in tableOfSongIDs.
+
+Finding song id: 34537
+Song id 34537 found in tableOfSongIDs.
+
+Finding song id: 7456
+Song id 7456 found in tableOfSongIDs.
+
+Finding song id: 9423
+Song id 9423 found in tableOfSongIDs.
+
+Finding song id: 8751
+Song id 8751 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 212279 ns
+
+Sequential find access time:
+
+Masquerade (Interface Mix), 0:4:2, Berlin, classic pop and rock, 16578
+Whatcha Gonna Do, 0:3:30, Claire Lynch, folk, 34537
+Good Times (Original 12"  Mix), 0:8:7, Chic, classic pop and rock, 7456
+The Dark End Of The Street (LP Version), 0:2:46, Percy Sledge, classic pop and rock, 9423
+Come See About Me, 0:2:39, The Supremes, classic pop and rock, 8751
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 24748 ns
+
+
+N: 41000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 28496
+Song id 28496 found in tableOfSongIDs.
+
+Finding song id: 30070
+Song id 30070 found in tableOfSongIDs.
+
+Finding song id: 2407
+Song id 2407 found in tableOfSongIDs.
+
+Finding song id: 22829
+Song id 22829 found in tableOfSongIDs.
+
+Finding song id: 14529
+Song id 14529 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 307728 ns
+
+Sequential find access time:
+
+Caleb Meyer, 0:3:2, The Greencards, folk, 28496
+Well_ Well, 0:3:36, The Infamous Stringdusters, folk, 30070
+Now Is The Time For Love, 0:4:5, Deniece Williams, classic pop and rock, 2407
+JOY, 0:4:6, Big Youth, classic pop and rock, 22829
+Daisy Glaze [Rehearsal Version], 0:3:55, Big Star, classic pop and rock, 14529
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 2 ms : 7220 ns
+
+
+N: 42000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 27513
+Song id 27513 found in tableOfSongIDs.
+
+Finding song id: 18584
+Song id 18584 found in tableOfSongIDs.
+
+Finding song id: 14107
+Song id 14107 found in tableOfSongIDs.
+
+Finding song id: 4124
+Song id 4124 found in tableOfSongIDs.
+
+Finding song id: 15550
+Song id 15550 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 328644 ns
+
+Sequential find access time:
+
+Acres Of Ground, 0:4:48, Eliza Carthy, folk, 27513
+Face of the Century, 0:4:55, The Lotus Eaters, classic pop and rock, 18584
+It Takes All Kinds, 0:4:7, Aimee Mann, classic pop and rock, 14107
+Happy People (Mystery and Matt Early Remix), 0:6:3, Incognito, classic pop and rock, 4124
+Beads Of Sweat, 0:4:52, Laura Nyro, classic pop and rock, 15550
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 3 ms : 715 ns
+
+
+N: 43000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 17832
+Song id 17832 found in tableOfSongIDs.
+
+Finding song id: 35019
+Song id 35019 found in tableOfSongIDs.
+
+Finding song id: 5737
+Song id 5737 found in tableOfSongIDs.
+
+Finding song id: 39677
+Song id 39677 found in tableOfSongIDs.
+
+Finding song id: 31987
+Song id 31987 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 243170 ns
+
+Sequential find access time:
+
+Nowhere To Run, 0:3:2, Martha and the Vandellas, classic pop and rock, 17832
+Seven Years (LP Version), 0:5:31, Natalie Merchant, folk, 35019
+High Time, 0:2:12, The Sonics, classic pop and rock, 5737
+Mona Lisa, 0:3:54, Tommy Emmanuel, folk, 39677
+Rock Island Line, 0:5:30, Ramblin' Jack Elliott, folk, 31987
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 988742 ns
+
+
+N: 44000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 26
+Song id 26 found in tableOfSongIDs.
+
+Finding song id: 24873
+Song id 24873 found in tableOfSongIDs.
+
+Finding song id: 34710
+Song id 34710 found in tableOfSongIDs.
+
+Finding song id: 3379
+Song id 3379 found in tableOfSongIDs.
+
+Finding song id: 22779
+Song id 22779 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 383345 ns
+
+Sequential find access time:
+
+I Love The Night, 0:4:28, Blue Oyster Cult, classic pop and rock, 26
+Baston (Compresses Albuplast Mercurochrome), 0:1:40, Les GarÌ_ons Bouchers, punk, 24873
+Noah, 0:2:30, Devendra Banhart, folk, 34710
+Belbury Poly Logotone, 0:0:12, Belbury Poly, classic pop and rock, 3379
+Eastern Spell (Live - Broendby Club), 0:2:0, Tyrannosaurus Rex, classic pop and rock, 22779
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 2 ms : 100937 ns
+
+
+N: 45000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 38872
+Song id 38872 found in tableOfSongIDs.
+
+Finding song id: 27396
+Song id 27396 found in tableOfSongIDs.
+
+Finding song id: 33345
+Song id 33345 found in tableOfSongIDs.
+
+Finding song id: 9354
+Song id 9354 found in tableOfSongIDs.
+
+Finding song id: 30665
+Song id 30665 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 177240 ns
+
+Sequential find access time:
+
+Vou Por Ai, 0:2:4, Nara LeÌ£o, folk, 38872
+Fruit of love, 0:4:58, Fixx, folk, 27396
+The Blackbird, 0:2:9, Dave Swarbrick, folk, 33345
+My Special Prayer, 0:3:19, Percy Sledge, classic pop and rock, 9354
+She's Crazy For Leaving, 0:3:16, RODNEY CROWELL, folk, 30665
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 516642 ns
+
+
+N: 46000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 12879
+Song id 12879 found in tableOfSongIDs.
+
+Finding song id: 19410
+Song id 19410 found in tableOfSongIDs.
+
+Finding song id: 21483
+Song id 21483 found in tableOfSongIDs.
+
+Finding song id: 2765
+Song id 2765 found in tableOfSongIDs.
+
+Finding song id: 26936
+Song id 26936 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 228380 ns
+
+Sequential find access time:
+
+Holy Ghost, 0:6:4, The Bar-Kays, classic pop and rock, 12879
+Elusive Butterfly, 0:2:20, Glen Campbell, classic pop and rock, 19410
+Never Can Say Goodbye, 0:2:57, Gloria Gaynor, classic pop and rock, 21483
+Yonder Comes A Sucker, 0:2:32, Jim Reeves, classic pop and rock, 2765
+For The Worst, 0:2:28, 50 Lions, punk, 26936
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 2 ms : 233049 ns
+
+
+N: 47000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 21377
+Song id 21377 found in tableOfSongIDs.
+
+Finding song id: 29507
+Song id 29507 found in tableOfSongIDs.
+
+Finding song id: 10090
+Song id 10090 found in tableOfSongIDs.
+
+Finding song id: 9485
+Song id 9485 found in tableOfSongIDs.
+
+Finding song id: 36301
+Song id 36301 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 323061 ns
+
+Sequential find access time:
+
+Just Because, 0:2:53, Johnny Dowd, classic pop and rock, 21377
+A Red Bowl, 0:3:22, Krista Detor, folk, 29507
+The Poke, 0:5:8, Brand X, classic pop and rock, 10090
+Let's Get High, 0:1:54, Rod Lee, classic pop and rock, 9485
+I'm Gonna Be an Engineer, 0:4:32, Peggy Seeger, folk, 36301
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 2 ms : 233453 ns
+
+
+N: 48000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 23127
+Song id 23127 found in tableOfSongIDs.
+
+Finding song id: 32500
+Song id 32500 found in tableOfSongIDs.
+
+Finding song id: 1644
+Song id 1644 found in tableOfSongIDs.
+
+Finding song id: 12622
+Song id 12622 found in tableOfSongIDs.
+
+Finding song id: 19633
+Song id 19633 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 322927 ns
+
+Sequential find access time:
+
+Love Is (LP Version), 0:2:35, Shirley & Company, classic pop and rock, 23127
+I Gotta Start Somewhere, 0:3:36, Rhonda Vincent, folk, 32500
+27 Ways To Get Back Home, 0:2:51, The Pale Fountains, classic pop and rock, 1644
+(Goodnight My Love) Pleasant Dreams, 0:5:38, Tavares, classic pop and rock, 12622
+All The Time, 0:2:45, Anne Murray, classic pop and rock, 19633
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 2 ms : 439808 ns
+
+
+N: 49000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 46395
+Song id 46395 found in tableOfSongIDs.
+
+Finding song id: 38340
+Song id 38340 found in tableOfSongIDs.
+
+Finding song id: 27410
+Song id 27410 found in tableOfSongIDs.
+
+Finding song id: 26760
+Song id 26760 found in tableOfSongIDs.
+
+Finding song id: 38961
+Song id 38961 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 238532 ns
+
+Sequential find access time:
+
+Good Times, 0:4:37, Kid606, dance and electronica, 46395
+Brother (Buddy) Can You Spare A Dime (LP Version), 0:2:34, Peter_ Paul and Mary, folk, 38340
+Thousand Roads (Live LP Version), 0:5:3, David Crosby, folk, 27410
+Down In Chiapas, 0:2:40, Rejected Youth, punk, 26760
+The Call And The Answer, 0:3:58, Kris Drever, folk, 38961
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 2 ms : 864426 ns
+
+
+N: 50000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 12992
+Song id 12992 found in tableOfSongIDs.
+
+Finding song id: 16110
+Song id 16110 found in tableOfSongIDs.
+
+Finding song id: 38823
+Song id 38823 found in tableOfSongIDs.
+
+Finding song id: 44822
+Song id 44822 found in tableOfSongIDs.
+
+Finding song id: 4269
+Song id 4269 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 306061 ns
+
+Sequential find access time:
+
+Sitting Here Alone, 0:3:49, Hound Dog Taylor, classic pop and rock, 12992
+Sacrilege, 0:4:55, The Mission, classic pop and rock, 16110
+Scraping Dixie, 0:6:27, John Gorka, folk, 38823
+Sex Shooter, 0:3:7, Coco Electrik, dance and electronica, 44822
+Demonised Soul (Bio Muse), 0:4:49, FUNDAMENTAL, classic pop and rock, 4269
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 2 ms : 699359 ns
+
+
+N: 51000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 29619
+Song id 29619 found in tableOfSongIDs.
+
+Finding song id: 24414
+Song id 24414 found in tableOfSongIDs.
+
+Finding song id: 22338
+Song id 22338 found in tableOfSongIDs.
+
+Finding song id: 41746
+Song id 41746 found in tableOfSongIDs.
+
+Finding song id: 42751
+Song id 42751 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 206209 ns
+
+Sequential find access time:
+
+Picnic, 0:3:21, Bill Morrissey, folk, 29619
+Power Of Unity, 0:3:5, Evil Conduct, punk, 24414
+Goodbye To Love, 0:3:56, The Carpenters, classic pop and rock, 22338
+Silence, 0:2:54, Sarah Masen, pop, 41746
+Expose, 0:6:23, High Contrast, dance and electronica, 42751
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 2 ms : 391134 ns
+
+
+N: 52000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 284
+Song id 284 found in tableOfSongIDs.
+
+Finding song id: 29502
+Song id 29502 found in tableOfSongIDs.
+
+Finding song id: 41559
+Song id 41559 found in tableOfSongIDs.
+
+Finding song id: 28333
+Song id 28333 found in tableOfSongIDs.
+
+Finding song id: 41687
+Song id 41687 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 798347 ns
+
+Sequential find access time:
+
+Flower, 0:3:2, Deerhoof, classic pop and rock, 284
+Lay Him Down, 0:3:29, Krista Detor, folk, 29502
+The War (Album Version), 0:5:56, Lucero, pop, 41559
+I'm Going Back To The Old Home, 0:2:15, Doc Watson, folk, 28333
+Tu Y Yo, 0:2:31, Joan Sebastian, pop, 41687
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 2 ms : 348348 ns
+
+
+N: 53000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 39151
+Song id 39151 found in tableOfSongIDs.
+
+Finding song id: 8669
+Song id 8669 found in tableOfSongIDs.
+
+Finding song id: 43610
+Song id 43610 found in tableOfSongIDs.
+
+Finding song id: 28954
+Song id 28954 found in tableOfSongIDs.
+
+Finding song id: 41456
+Song id 41456 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 167552 ns
+
+Sequential find access time:
+
+Hey Hey Revolver, 0:3:36, The Felice Brothers, folk, 39151
+Arkansas State Prison - Original, 0:3:0, Bobby Womack, classic pop and rock, 8669
+Love Wind, 0:2:23, Christopher Willits, dance and electronica, 43610
+Crystelle (LP Version), 0:3:9, Guy Clark, folk, 28954
+I Miss You - Pt. 1, 0:3:49, David Ruffin, pop, 41456
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 956859 ns
+
+
+N: 54000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 14205
+Song id 14205 found in tableOfSongIDs.
+
+Finding song id: 43149
+Song id 43149 found in tableOfSongIDs.
+
+Finding song id: 32652
+Song id 32652 found in tableOfSongIDs.
+
+Finding song id: 4011
+Song id 4011 found in tableOfSongIDs.
+
+Finding song id: 46717
+Song id 46717 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 190252 ns
+
+Sequential find access time:
+
+I'll Be Loving You Always, 0:3:49, Anita Ward, classic pop and rock, 14205
+Ain't No Woman Gonna Make A George Jones Outta Me (Continued Story), 0:2:43, Daniel Johnston, dance and electronica, 43149
+Got My Mojo Working, 0:8:59, Levon Helm And The RCO All Sta, folk, 32652
+My Lover's Gone, 0:4:28, Dido, classic pop and rock, 4011
+The Other Side, 0:4:40, Stereo MC's, dance and electronica, 46717
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 874909 ns
+
+
+N: 55000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 47570
+Song id 47570 found in tableOfSongIDs.
+
+Finding song id: 2001
+Song id 2001 found in tableOfSongIDs.
+
+Finding song id: 10515
+Song id 10515 found in tableOfSongIDs.
+
+Finding song id: 21582
+Song id 21582 found in tableOfSongIDs.
+
+Finding song id: 42394
+Song id 42394 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 916700 ns
+
+Sequential find access time:
+
+The Oracle, 0:3:32, Haste The Day, metal, 47570
+Change Your Ways, 0:2:50, Lowell Fulson, classic pop and rock, 2001
+If That's The Way You Want It, 0:4:27, THE FATBACK BAND, classic pop and rock, 10515
+Big Big Deal, 0:4:36, Cockney Rebel, classic pop and rock, 21582
+Elvi$, 0:6:4, Felix Da Housecat, dance and electronica, 42394
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 2 ms : 845454 ns
+
+
+N: 56000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 34994
+Song id 34994 found in tableOfSongIDs.
+
+Finding song id: 21385
+Song id 21385 found in tableOfSongIDs.
+
+Finding song id: 18721
+Song id 18721 found in tableOfSongIDs.
+
+Finding song id: 22123
+Song id 22123 found in tableOfSongIDs.
+
+Finding song id: 42136
+Song id 42136 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 333469 ns
+
+Sequential find access time:
+
+King Of May (LP Version), 0:4:10, Natalie Merchant, folk, 34994
+Billy Blu, 0:3:6, Johnny Dowd, classic pop and rock, 21385
+Secrets Of The Mind, 0:4:59, Inner City, classic pop and rock, 18721
+Shimmy_ Shimmy_ Ko-Ko-Bop, 0:2:11, Little Anthony & The Imperials, classic pop and rock, 22123
+Youå«re A Bit Rough, 0:6:41, Alex Smoke, dance and electronica, 42136
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 2 ms : 130296 ns
+
+
+N: 57000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 23242
+Song id 23242 found in tableOfSongIDs.
+
+Finding song id: 43295
+Song id 43295 found in tableOfSongIDs.
+
+Finding song id: 47544
+Song id 47544 found in tableOfSongIDs.
+
+Finding song id: 23198
+Song id 23198 found in tableOfSongIDs.
+
+Finding song id: 24825
+Song id 24825 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 138393 ns
+
+Sequential find access time:
+
+When the Other Foot Drops_ Uncle, 0:3:16, Sharon Jones & The Dap-Kings, classic pop and rock, 23242
+Say It, 0:10:31, Booty Luv, dance and electronica, 43295
+American Love (Burning Bridges Album Version), 0:4:55, Haste The Day, metal, 47544
+Desperation - Original, 0:6:28, Humble Pie, classic pop and rock, 23198
+We Shall Overcome, 0:2:9, Raw Power, punk, 24825
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 530513 ns
+
+
+N: 58000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 9496
+Song id 9496 found in tableOfSongIDs.
+
+Finding song id: 21725
+Song id 21725 found in tableOfSongIDs.
+
+Finding song id: 41596
+Song id 41596 found in tableOfSongIDs.
+
+Finding song id: 17894
+Song id 17894 found in tableOfSongIDs.
+
+Finding song id: 25947
+Song id 25947 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 210251 ns
+
+Sequential find access time:
+
+Rock That Sh!#, 0:2:40, Rod Lee, classic pop and rock, 9496
+Rip It Up, 0:2:19, Little Richard, classic pop and rock, 21725
+Contigo, 0:3:13, Lucero, pop, 41596
+Your Secret's Safe With Me, 0:4:52, The Robert Cray Band, classic pop and rock, 17894
+Flag Woman, 0:5:24, Kitchener, punk, 25947
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 496702 ns
+
+
+N: 59000
+
+Quadratic probing hash table access time:
+
+Test file for id table: inputFile08.txt
+
+Finding song id: 35553
+Song id 35553 found in tableOfSongIDs.
+
+Finding song id: 13720
+Song id 13720 found in tableOfSongIDs.
+
+Finding song id: 30338
+Song id 30338 found in tableOfSongIDs.
+
+Finding song id: 12580
+Song id 12580 found in tableOfSongIDs.
+
+Finding song id: 8631
+Song id 8631 found in tableOfSongIDs.
+Done with testing table of ids.
+
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 307028 ns
+
+Sequential find access time:
+
+Thin Wild Mercury, 0:3:36, Todd Snider, folk, 35553
+Up Against The Wall, 0:3:36, THE TOM ROBINSON BAND, classic pop and rock, 13720
+African Banjo, 0:3:9, Peter Rowan, folk, 30338
+Got To Live It Up To Live You Down, 0:1:57, Al Martino, classic pop and rock, 12580
+The Proud One, 0:3:2, The Osmonds, classic pop and rock, 8631
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 776586 ns
+

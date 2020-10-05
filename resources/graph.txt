@@ -1,0 +1,8 @@
+LINK TO GRAPH: https://imgur.com/a/pIM2nBI
+
+Analysis:
+According to the graph, as the size of N increases, a quadratic probing hash table has a much lower access time
+compared to the access time when using sequential find. Additionally, it appears that accessing in a quadratic probing
+hash table is a constant time operation because the algorithm does not depend on N. The operation seems to take about
+the same time no matter how large N is. Also, it appears that accessing using sequential find is a linear time
+operation because the running time roughly doubles when N is doubled.
